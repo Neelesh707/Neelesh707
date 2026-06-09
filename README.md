@@ -28,16 +28,6 @@
 
 ---
 
-
-## 🏆 Platforms & Progress
-
-- 🟩 [TryHackMe](https://tryhackme.com/p/neeleshpandey012) — actively solving rooms
-- 🟩 [Hakviser]()
-- 🟥 [HackTheBox](https://hackthebox.com) — starting out
-- 🚩 CTFs — working towards my first flag
-
----
-
 ## 📌 Currently Focused On
 
 - [ ] Networking fundamentals (TCP/IP, DNS, HTTP)
