@@ -12,7 +12,7 @@
 - 🎯 Goal — become a professional penetration tester (CEH / OSCP)
 - 🧩 Exploring — CTF challenges, TryHackMe & HackTheBox
 - 💬 Ask me about — anything cybersecurity, I'm always up to learn together
-- 📫 Reach me at — [Email](neeleshpandey0121@gmail.com) or [LinkedIn](https://www.linkedin.com/in/neelesh-pandey021/)
+- 📫 Reach me at — [LinkedIn](https://www.linkedin.com/in/neelesh-pandey021/) 
 
 ---
 
