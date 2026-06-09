@@ -8,11 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning — ethical hacking, network security & Linux fundamentals
-- 🎯 Goal — become a certified penetration tester (CEH / OSCP)
+- 🌱 Currently learning — Pentesting, network security & Linux fundamentals
+- 🎯 Goal — become a professional penetration tester (CEH / OSCP)
 - 🧩 Exploring — CTF challenges, TryHackMe & HackTheBox
 - 💬 Ask me about — anything cybersecurity, I'm always up to learn together
-- 📫 Reach me at — [your email or LinkedIn URL]
+- 📫 Reach me at — Email(neeleshpandey0121@gmail.com) or LinkedIn (https://www.linkedin.com/in/neelesh-pandey021/)
 
 ---
 
