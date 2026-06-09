@@ -28,17 +28,11 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Neelesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neelesh707&show_icons=true&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh707&layout=compact&theme=dark&hide_border=true)
-
----
 
 ## 🏆 Platforms & Progress
 
-- 🟩 [TryHackMe](https://tryhackme.com) — actively solving rooms
+- 🟩 [TryHackMe](https://tryhackme.com/p/neeleshpandey012) — actively solving rooms
+- 🟩 [Hakviser]()
 - 🟥 [HackTheBox](https://hackthebox.com) — starting out
 - 🚩 CTFs — working towards my first flag
 
