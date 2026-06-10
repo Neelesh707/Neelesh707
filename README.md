@@ -2,7 +2,7 @@
 
 > *"The quieter you become, the more you can hear."* — Kali Linux
 
-🔐 Aspiring Penetration Tester | Cybersecurity Enthusiast | CTF Player in the making
+🔐Web Application Penetration Tester
 
 ---
 
@@ -16,7 +16,7 @@
 
 ---
 
-## 🛠️ Tools & Tech I'm Learning
+## 🛠️ Tools & Tech I'm Working on 
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
