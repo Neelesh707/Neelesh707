@@ -2,7 +2,7 @@
 
 > *"The quieter you become, the more you can hear."* — Kali Linux
 
-🔐Web Application Penetration Tester
+🔐 Web Application Penetration Tester
 
 ---
 
