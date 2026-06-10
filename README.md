@@ -8,10 +8,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🌱 Currently learning — Pentesting, network security & Linux fundamentals
-- 🎯 Goal — become a professional penetration tester (CEH / OSCP)
-- 🧩 Exploring — CTF challenges, TryHackMe & HackTheBox
-- 💬 Ask me about — anything cybersecurity, I'm always up to learn together
+- 🌱 Completed 100+ PortSwigger labs including Expert-level challenges
+- 🎯 Focused on Web Application Penetration Testing (SQLi, XSS, SSRF, Auth Bypass, IDOR)
+- 🛠️ Built custom Python tools — blind SQLi extractor, 2FA brute-force, race condition tester
+- 📖 Researching CVEs and publishing write-ups (Apache Tomcat, Samba, ProFTPD, ExifTool)
+- 🏆 Goal — OSCP certification
 - 📫 Reach me at — [LinkedIn](https://www.linkedin.com/in/neelesh-pandey021/) 
 
 ---
