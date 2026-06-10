@@ -28,14 +28,4 @@
 
 ---
 
-## 📌 Currently Focused On
-
-- [ ] Networking fundamentals (TCP/IP, DNS, HTTP)
-- [ ] Linux command line mastery
-- [ ] Basic scripting with Python & Bash
-- [ ] Web application vulnerabilities (OWASP Top 10)
-- [ ] First CTF competition
-
----
-
 *"Every expert was once a beginner. Keep hacking (ethically)."* 🛡️
